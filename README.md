@@ -44,10 +44,10 @@ This application consists of 5 main parts:
 - Vibrate target device with custom timing
 
 <p float="left">
-  <img src="/Previews/Frame 3.png" width="20%" />
-  <img src="/Previews/Frame 4.png" width="20%" />
-  <img src="/Previews/Frame 5.png" width="20%" />
-  <img src="/Previews/Frame 6.png" width="20%" />
+  <img src="/Preview/Frame 3.png" width="20%" />
+  <img src="/Preview/Frame 4.png" width="20%" />
+  <img src="/Preview/Frame 5.png" width="20%" />
+  <img src="/Preview/Frame 6.png" width="20%" />
 </p>
 
 **Advanced access:**
@@ -61,10 +61,10 @@ This application consists of 5 main parts:
 - Display custom notification on target device
 
 <p float="left">
-  <img src="/Previews/Frame 7.png" width="20%" />
-  <img src="/Previews/Frame 8.png" width="20%" />
-  <img src="/Previews/Frame 9.png" width="20%" />
-  <img src="/Previews/Frame 10.png" width="20%" />
+  <img src="/Preview/Frame 7.png" width="20%" />
+  <img src="/Preview/Frame 8.png" width="20%" />
+  <img src="/Preview/Frame 9.png" width="20%" />
+  <img src="/Preview/Frame 10.png" width="20%" />
 </p>
 
 **Advanced file explorer:**\
@@ -73,8 +73,8 @@ This tool gives you easy access to all the files of the target device, which can
 - Delete files
 
 <p float="left">
-  <img src="/Previews/Frame 11.png" width="20%" />
-  <img src="/Previews/Frame 12.png" width="20%" />
+  <img src="/Preview/Frame 11.png" width="20%" />
+  <img src="/Preview/Frame 12.png" width="20%" />
 </p>
 
 **Advanced Keylogger:**\
@@ -86,10 +86,10 @@ This tool reports to you all the actions performed on the target device such as:
 - All the texts on the screen
 
 <p float="left">
-  <img src="/Previews/Frame 13.png" width="20%" />
-  <img src="/Previews/Frame 14.png" width="20%" />
-  <img src="/Previews/Frame 15.png" width="20%" />
-  <img src="/Previews/Frame 16.png" width="20%" />
+  <img src="/Preview/Frame 13.png" width="20%" />
+  <img src="/Preview/Frame 14.png" width="20%" />
+  <img src="/Preview/Frame 15.png" width="20%" />
+  <img src="/Preview/Frame 16.png" width="20%" />
 </p>
 
 ## How to use
