@@ -1,6 +1,6 @@
 
 # Rainbow RAT
-<img src="/RainbowRatMain.png" width="100%" />
+<img src="/Preview/RainbowRatMain.png" width="100%" />
 
 #### This software is made for educational purposes only !
 
